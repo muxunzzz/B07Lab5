@@ -1,5 +1,3 @@
-package B07Lab5;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
@@ -13,14 +11,14 @@ class CircleTests {
 	void test1() {
 		Point p = new Point(0,0);
 		Circle c = new Circle(p,1);
-		assertTrue(c.perimeter().equals(2 * Math.PI));
+		assertTrue(c.perimeter() == 2 * Math.PI);
 	}
 
 	@Test
 	void test2() {
 		Point p = new Point(0,0);
 		Circle c = new Circle(p,1);
-		assertTrue(c.area().equals(Math.PI));
+		assertTrue(c.area() == Math.PI);
 	}
 
 	@Test
