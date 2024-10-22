@@ -1,7 +1,7 @@
-Description
+# Description
 <!-- Describe the changes you made and why -->
 
-Type of Change
+# Type of Change
 <!-- Please check the box that applies to your pull request -->
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
@@ -9,7 +9,7 @@ Type of Change
 - [ ] Documentation update (changes to documentation only)
 - [ ] Other (please describe):
 
-Checklist
+# Checklist
 <!-- Please check off the following items before creating the pull request -->
 - [ ] I have performed a self-review of my code
 - [ ] I have commented my code
@@ -18,5 +18,5 @@ Checklist
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules
 
-Additional Notes
+# Additional Notes
 <!-- Add any other information which may be useful -->
